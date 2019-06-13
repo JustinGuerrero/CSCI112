@@ -1,0 +1,43 @@
+Programming in C                              CSCI112 Sophomore MWF 0900-0950
+                                                
+Joy and Beauty of Data                        CSCI127 Freshman MWF 1200-1250
+Discrete Structures                           CSCI246 Sophomore MWF 1300-1350
+Computational Theory                          CSCI338 Junior  TR 1000-1050
+Joy and Beauty of Computing                   CSCI107 Freshman MWF 1000-1050
+Intro to Data Structures                      CSCI132 Freshman TR 1100-1150
+Artificial Intelligence                       CSCI446 Senior TR 0900-0950
+Social and Ethical Issues in Computer Science  CSCI215 Sophomore TR 1300-1350
+Data Structures and Algorithms                CSCI232 Sophomore MWF 1100-1150
+Compilers                                     CSCI468 Senior TR 1400-1450
+Machine Learning                              CSCI447 Senior MWF 1400-1450
+Programming Languages                         CSCI305 Junior  TR 1200-1250
+System Administration                         CSCI351 Junior  TR 1500-1550
+Intro to Data Mining                          CSCI301 Junior  MWF 0800-0850
+
+Programming in C                              CSCI112 Sophomore MWF 0900-0950
+Joy and Beauty of Data                        CSCI127 Freshman MWF 1200-1250
+Discrete Structures                           CSCI246 Sophomore MWF 1300-1350
+Joy and Beauty of Computing                   CSCI107 Freshman MWF 1000-1050
+Data Structures and Algorithms                CSCI232 Sophomore MWF 1100-1150
+Machine Learning                              CSCI447 Senior MWF 1400-1450
+Intro to Data Mining                          CSCI301 Junior  MWF 0800-0850
+
+Joy and Beauty of Data                        CSCI127 Freshman MWF 1200-1250
+
+
+
+
+
+
+
+Artificial Intelligence                       CSCI446 Senior TR 0900-0950
+
+
+
+Compilers                                     CSCI468 Senior TR 1400-1450
+
+Machine Learning                              CSCI447 Senior MWF 1400-1450
+
+
+
+
